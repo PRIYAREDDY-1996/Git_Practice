@@ -1,5 +1,0 @@
-GIT
-GIT REPOSITORY
-This is easy
-
-Authentication is important step
